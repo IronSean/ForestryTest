@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ironsean.github.org/posts/my-first-post/</loc>
+    <lastmod>2017-10-18T21:23:45-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ironsean.github.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ironsean.github.org/</loc>
+    <lastmod>2017-10-18T21:23:45-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironsean.github.org/posts/</loc>
+    <lastmod>2017-10-18T21:23:45-03:00</lastmod>
     <priority>0</priority>
   </url>
   
