@@ -1,6 +1,9 @@
 ---
-title: "My First Post"
-date: 2017-10-18T21:23:45-03:00
+title: My First Post
+date: 2017-10-18 21:23:45 -0300
 draft: true
+
 ---
 
+
+This is the content of my first post.
