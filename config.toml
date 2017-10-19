@@ -1,5 +1,4 @@
 baseURL = "https://ironsean.github.io/"
 languageCode = "en-us"
-title = "My Forestry test"
 theme = "ananke"
-
+title = "My Forestry test"
