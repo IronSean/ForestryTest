@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Forestry test</title>
-    <link>https://ironsean.github.org/</link>
+    <link>https://ironsean.github.io/</link>
     <description>Recent content on My Forestry test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Oct 2017 21:23:45 -0300</lastBuildDate>
     
-	<atom:link href="https://ironsean.github.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ironsean.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://ironsean.github.org/posts/my-first-post/</link>
+      <link>https://ironsean.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 18 Oct 2017 21:23:45 -0300</pubDate>
       
-      <guid>https://ironsean.github.org/posts/my-first-post/</guid>
+      <guid>https://ironsean.github.io/posts/my-first-post/</guid>
       <description>This is the content of my first post.111</description>
     </item>
     
