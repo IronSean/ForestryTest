@@ -1,4 +1,6 @@
 ---
+pages:
+- posts/first-forestry-post.md
 hide_body: false
 fields:
 - name: date
